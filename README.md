@@ -90,7 +90,7 @@ Palette tweaks (state the ANSI index and reasoning).
 Additional dark themes using the same structure.
 
 ## License
-MIT License.
+MIT License. See LICENSE
 
 ## Disclaimer
 These themes and patterns are provided “as is.” Verify highlights and adjust rules to fit your environment and compliance requirements.
