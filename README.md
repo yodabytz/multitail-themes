@@ -2,7 +2,7 @@
 MultiTail Themes is a set of dark, 256-color MultiTail color schemes (Tokyo Night, Dracula, Gruvbox, and Catppuccin-frappe) with opinionated regex highlights for real-world logs: severities, HTTP, SSH/Auth, DB/app messages, IPs, emails, timestamps, and a final catch-all.
 
 ## Features
-Three dark themes: Tokyo Night, Dracula, Gruvbox (256-color friendly).
+Dark themes: Tokyo Night, Dracula, Gruvbox, Catppuccin (Frappe & Latte) (256-color friendly).
 
 Log-aware highlights: ERROR/WARN/INFO/TRACE/DEBUG, HTTP methods & status codes, TLS, SSH auth, PAM, sessions, DB issues, PHP-FPM, upstream errors.
 
